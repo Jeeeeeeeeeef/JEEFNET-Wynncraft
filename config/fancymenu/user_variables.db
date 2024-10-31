@@ -1,0 +1,14 @@
+type = user_variables
+
+variable {
+  name = wynn_ip
+  value = play.wynncraft.com
+  reset_on_launch = false
+}
+
+variable {
+  name = region_wynn
+  value = us
+  reset_on_launch = false
+}
+

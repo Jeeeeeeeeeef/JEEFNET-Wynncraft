@@ -1,0 +1,11 @@
+version:3120
+autoJump:false
+snooperEnabled:false
+guiScale:3
+maxFps:260
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+soundCategory_music:0.0
+
+resourcePacks:["vanilla","fabric","file/panorama"]
