@@ -14,19 +14,23 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9d908fb21b9f0ad86f2b9342c243ee92a3bcb6492caf1b794565be3fef62e04e"
+hash = "fddd25f90fe9e5558aa741c2b0f3cd866f94b376d15209f7597c1057f05a02a5"
 
 [[files]]
 file = "config/fancymenu/customization/loading.txt"
-hash = "bc7f8408c9486e43316639be9e05cf89a261b395a0fa321e982cc2c71e39e86e"
+hash = "dd3940cebb0ea9c36f6e739465bab217273826e0bf441510bfd28e036d6c4976"
+
+[[files]]
+file = "config/fancymenu/customization/pause.txt"
+hash = "d3c84b349dee398b834f41911c27ded49de28e36ffbb557c388cedfb3b01bdaa"
 
 [[files]]
 file = "config/fancymenu/customization/wynn.txt"
-hash = "fefc9ab1b9c7db942f8ad33b797512cc42d3da5f3685ada2dd070ed63a0b9a92"
+hash = "5be921b246b71362167e321e752702ace16e572b49ec12f7a19db870a989d679"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "2f16453c78339d4853d96ddbe80c2dd05864ef8dcfc9877810fb04c1f2340401"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -38,7 +42,15 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "c130ac7e4c8a7316652022b53fff0c2774d78296e93b8f797d2542274c1b5d78"
+hash = "a80bc90a2f161731b65860fb387c703bbe57188007643e2f8af7939b57b05594"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
@@ -69,8 +81,8 @@ file = "config/yosbr/options.txt"
 hash = "f455074843b25a83e9497e0317d30bc43b5125a676466876e83cd6bd580e9af8"
 
 [[files]]
-file = "modrinth.index.json"
-hash = "6c113fc57117c448c7276bed6de0c680dac85fa4f1c0205c86db1f7314078cd6"
+file = "mods/WynnJeefnet-0.0.1.jar"
+hash = "9605024687f03a908b0ff8f8e31a0fdb27bc3810a266a2553b4c643fa8c2392f"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -110,11 +122,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
-metafile = true
-
-[[files]]
-file = "mods/fuy_gg.pw.toml"
-hash = "ab442e641e5ff8571576f3ef3a0428717eeb343a194ccad16b6d89dafbac2d1d"
 metafile = true
 
 [[files]]
@@ -180,10 +187,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "f455074843b25a83e9497e0317d30bc43b5125a676466876e83cd6bd580e9af8"
-
-[[files]]
-file = "push.bat"
-hash = "9773549162a2314570159b25f93e0dbb6f5f85f7f8db267c28304771572d8c82"
 
 [[files]]
 file = "resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
