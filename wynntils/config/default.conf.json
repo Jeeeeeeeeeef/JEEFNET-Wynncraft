@@ -1,0 +1,133 @@
+{
+  "chatTabsFeature.chatTabs": [
+    {
+      "name": "All",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": null,
+      "customRegexString": null
+    },
+    {
+      "name": "GChat",
+      "consuming": false,
+      "autoCommand": "/g",
+      "filteredTypes": [
+        "shout",
+        "clientside",
+        "gameMessage",
+        "guild",
+        "local",
+        "party",
+        "info",
+        "private",
+        "npc",
+        "pets",
+        "global"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Global",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "global"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Local",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "local"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Guild",
+      "consuming": false,
+      "autoCommand": "/g  ",
+      "filteredTypes": [
+        "guild",
+        "clientside"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Party",
+      "consuming": false,
+      "autoCommand": "/p  ",
+      "filteredTypes": [
+        "party"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Private",
+      "consuming": false,
+      "autoCommand": "/r  ",
+      "filteredTypes": [
+        "private"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Shout",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "shout"
+      ],
+      "customRegexString": null
+    }
+  ],
+  "customTerritoryManagementScreenFeature.userEnabled": false,
+  "raidProgressFeature.raidProgressOverlay1.userEnabled": false,
+  "raidProgressFeature.userEnabled": false,
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.userEnabled": false,
+  "serverUptimeInfoOverlayFeature.userEnabled": false,
+  "territoryAttackTimerOverlayFeature.territoryAttackTimerOverlay.userEnabled": false,
+  "territoryAttackTimerOverlayFeature.userEnabled": false,
+  "towerStatsFeature.towerStatsOverlay1.userEnabled": false,
+  "towerStatsFeature.userEnabled": false,
+  "warHornFeature.userEnabled": false,
+  "worldWaypointDistanceFeature.bottomBoundingDistance": 96.0,
+  "wynncraftButtonFeature.userEnabled": false,
+  "wynntils.upfixers": [
+    "custom_poi_visibility",
+    "customCommandKeybindSlashStart",
+    "gameBarOverlayMove",
+    "enumNaming",
+    "customPoiIconEnumBug",
+    "questBookToContentRenamedConfigs",
+    "mapToMainMapRenamedConfigs",
+    "overlayRestructuring",
+    "overlayConfigsIntegration",
+    "customBankQuickJumps",
+    "customBankQuickJumpsBankName",
+    "npcDialoguesRenamed",
+    "npcDialoguesOverlayConfigsMoved",
+    "towerAuraVignetteName",
+    "towerAuraVignetteAndOverlayMovedToCommonFeature",
+    "combatXpGainToXpGain",
+    "professionBadgesToLeaderboardBadges",
+    "tradeMarketAutoOpenChatToTradeMarketQuickSearch"
+  ],
+  "overlayGroups": {
+    "customBarsOverlayFeature.groupedOverlay.customUniversalBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customHealthBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customManaBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customExperienceBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customBubbleBarOverlays.ids": [],
+    "infoBoxFeature.groupedOverlay.infoBoxOverlays.ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

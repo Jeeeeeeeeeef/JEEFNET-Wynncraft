@@ -73,6 +73,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "1433d3b049af59d534211442102a81613adab4a2922e3f8dc0252d8b7157b508"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "68f312b9d531bb85606b4dccf8efcbe4b04d433f9acde8470294164952d0b3e2"
+
+[[files]]
 file = "config/yosbr/config/shouldersurfing.toml"
 hash = "689a1d3dac47acc9dff4a84d6e91142f54fa4146ef6409c164496c807625cd95"
 
@@ -155,6 +159,11 @@ hash = "c60d088f476eb37e15d88a762591d39874a99d80c729da813e0f4951e2906d16"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
 metafile = true
@@ -162,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "3969af2963ad7ab059c1fc4485a579fe371b63f819878ad8407f5f4db51b61cf"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
@@ -228,3 +242,7 @@ hash = "fe802fe3c4fa7db905a7cb52ac50f18295d48ae695072bb8ec3b287677a64e2e"
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
 metafile = true
+
+[[files]]
+file = "wynntils/config/default.conf.json"
+hash = "16a879f2278bea46bc2527998ff55bb7b023a5186d26f346d818d0d32b9b5a25"
