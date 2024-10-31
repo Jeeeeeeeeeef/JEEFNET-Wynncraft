@@ -26,7 +26,7 @@ hash = "d3c84b349dee398b834f41911c27ded49de28e36ffbb557c388cedfb3b01bdaa"
 
 [[files]]
 file = "config/fancymenu/customization/wynn.txt"
-hash = "c4ba082d59cfecbc09992e917dc88f3501004022614640502b20fdf3bd46b3d8"
+hash = "1b1896f5ab26c9cc4b22413e785c94301d4a19c6e572a5c82a0af6c11f8feece"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -242,7 +242,3 @@ hash = "fe802fe3c4fa7db905a7cb52ac50f18295d48ae695072bb8ec3b287677a64e2e"
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
 metafile = true
-
-[[files]]
-file = "wynntils/config/default.conf.json"
-hash = "020345552a95cf127354f89e32c25a5a62f087e0bc60d33e25ce606011a13516"
