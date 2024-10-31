@@ -26,7 +26,7 @@ hash = "d3c84b349dee398b834f41911c27ded49de28e36ffbb557c388cedfb3b01bdaa"
 
 [[files]]
 file = "config/fancymenu/customization/wynn.txt"
-hash = "5be921b246b71362167e321e752702ace16e572b49ec12f7a19db870a989d679"
+hash = "c4ba082d59cfecbc09992e917dc88f3501004022614640502b20fdf3bd46b3d8"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -245,4 +245,4 @@ metafile = true
 
 [[files]]
 file = "wynntils/config/default.conf.json"
-hash = "16a879f2278bea46bc2527998ff55bb7b023a5186d26f346d818d0d32b9b5a25"
+hash = "020345552a95cf127354f89e32c25a5a62f087e0bc60d33e25ce606011a13516"

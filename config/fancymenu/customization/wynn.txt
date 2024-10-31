@@ -365,7 +365,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 22b39bc2-4d9a-43fe-9b61-1bcf9065d429-1723381670018
-  [executable_action_instance:e53583d5-57bc-4da9-9cf1-9e9ec4a8512d-1730398704662][action_type:mimicbutton] = modmenu_titlescreen_mods_button
+  [executable_action_instance:e53583d5-57bc-4da9-9cf1-9e9ec4a8512d-1730398704662][action_type:mimicbutton] = title_screen:modmenu_titlescreen_mods_button
   [executable_block:22b39bc2-4d9a-43fe-9b61-1bcf9065d429-1723381670018][type:generic] = [executables:e53583d5-57bc-4da9-9cf1-9e9ec4a8512d-1730398704662;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
